@@ -12,3 +12,8 @@ Remember to edit the location of Stockfish in the code.
 
 # TL/DR
 Download the given files, install Stockfish and Python-Chess, edit the location of Stockfish, and you'll be able to run the app
+
+### Difference between this and my first app
+- You can play against Stockfish normally, unlike my first app, which had more features like custom positions.
+- Undo option,
+- Secret option: if you press the left arrow key, it will undo two moves.
